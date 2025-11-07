@@ -14,7 +14,6 @@ Built using **React.js**, **Node.js**, **Express.js**, **Socket.io**, and **Mong
 - 😊 **Emojis Support** – Expressive chatting experience  
 - 🕒 **Timestamps** – Shows when messages are sent and received  
 - 🎨 **Theme Customization** – Users can switch between light and dark themes  
-- 👋 **Join/Leave Notifications** – Displays when a user joins or leaves the chat  
 - 💾 **Persistent Storage** – All chats and user data are stored in MongoDB  
 
 ---
